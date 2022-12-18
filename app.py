@@ -9,8 +9,6 @@ st.set_page_config(
 )
 
 model = pickle.load(open('nn_xgb_model.pkl', 'rb'))
-explainer = pickle.load(open('explainer.pkl', 'rb'))
-shap_values = pickle.load(open('shap_values.pkl', 'rb'))
 
 
 def classify(num):
