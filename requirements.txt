@@ -216,7 +216,6 @@ terminado==0.15.0
 textblob==0.17.1
 textcleaner==0.4.26
 threadpoolctl==3.0.0
-tifffile==2022.8.3
 tinycss2==1.1.1
 tk==0.1.0
 toml==0.10.2
